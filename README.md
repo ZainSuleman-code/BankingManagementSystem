@@ -1,4 +1,4 @@
-💳 Banking Management System – Java Swing GUI
+Banking Management System – Java Swing GUI
 This is a fully functional Banking Management System built using Java Swing for the GUI and follows modern UI/UX principles with a dark theme, clean design, and interactive components. The system simulates real-world banking operations in a desktop environment, ideal for academic or portfolio purposes.
 
 🔧 Features
